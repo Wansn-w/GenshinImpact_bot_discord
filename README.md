@@ -1,0 +1,1 @@
+# GenshinImpact_bot_discord
